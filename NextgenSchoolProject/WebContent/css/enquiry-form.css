@@ -1,0 +1,52 @@
+.header{
+	color:black;
+	margin-left:45px;
+	background-color:#de3b69;
+	height:70px;
+}
+.title1{
+	color:black;
+	font-size:18px;
+}
+.title4{
+	color:black;
+	font-size:18px;
+}
+
+.gap{
+	margin-top:20px;
+}
+.check{
+	icon-size:20px;
+}
+.title2{
+	color:green;
+	font-style:italic;
+}
+.title3{
+	color:green;
+	font-style:italic;
+	text-align:center;
+}
+.main{
+	background:white;
+	border-radius:20px;
+}
+h4 a{
+	float:right;
+	padding:0px 0px 0px 0px;
+}
+.footer{
+	padding-top:10px;
+	background-color:#de3b69;
+	height:70px;
+}
+h2{
+	text-align:centerl
+}
+#enquiry-form {
+	padding:15px 0px 10px 0px;
+	margin:20px 0px 20px 40px;
+    line-height: 48px;
+	border:#666 solid 1px;
+}

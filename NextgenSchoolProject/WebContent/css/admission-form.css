@@ -1,0 +1,29 @@
+.title{
+	color:skyblue;
+	text-align:center;
+	font-size:40px;
+	border-bottom:1px dotted #006699;
+}
+.border{
+	border:5px solid #006699;
+	border-radius:10px;
+}
+.top{
+	margin-top:10px;
+}
+.word{
+	font-size:20px;
+	color:#006699;
+}
+.photo{
+	height:200px;
+	width:50%;
+}
+.line{
+	border:2px solid #006699;
+	margin-top:20px;
+}
+.date{
+	border:1px solid gray;
+	background:black;
+}
